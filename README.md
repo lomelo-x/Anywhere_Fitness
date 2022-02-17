@@ -18,5 +18,3 @@ Anywhere fitness simplifies client scheduling, allows you or your business to ea
 2. Run `npm install` in your terminal
 
 3. Run `npm start` in a separate terminal
-
-4. Go to http://localserver:3000 to start navigating
